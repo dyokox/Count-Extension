@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "name": "Count Extension",
+    "version": "1.0",
+    "description": "A simple counter extension with local storage.",
+    "permissions": [
+      "storage"
+    ],
+    "action": {
+      "default_popup": "popup.html"
+  }
+  }
